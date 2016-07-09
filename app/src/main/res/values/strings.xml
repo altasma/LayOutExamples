@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Hello From Android</string>
+    <string name="app_name">Hello Activities</string>
     <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    <string name="text1">Text1</string>
+    <string name="text2">Text2</string>
+    <string name="text3">Text3</string>
+    <string name="smallText">Small Text</string>
 </resources>
